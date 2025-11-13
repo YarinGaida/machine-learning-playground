@@ -1,39 +1,68 @@
-# Machine Learning Playground 🎯
+# 🧠 Machine Learning Playground
 
 Welcome!  
-This repository contains my personal implementations and solutions for programming exercises from my university Machine Learning course.  
-It serves as both a learning playground and a portfolio of my progress in machine learning and data science.
+This repository is my personal **Machine Learning & Data Science portfolio**, containing notebooks, exercises, and small projects that I’ve built while studying and experimenting with ML concepts.
+
+It includes both **university assignments** and **independent projects**, written to demonstrate clean, reproducible code and a strong understanding of core algorithms and workflows.
 
 ---
 
-## 📘 Contents
-- **Assignments** – solutions to course exercises  
-- **Algorithms** – core ML algorithms implemented from scratch (e.g. gradient descent, linear regression)  
-- **Notebooks** – experiments, visualizations, and practice problems  
+## 📂 Repository Structure
+machine-learning-playground/
+│
+├── University-Ex/ # Coursework notebooks & assignment solutions
+│ └── Exercise_01/
+│ ├── README.md
+│ ├── notebook.ipynb
+│ └── requirements.txt
+│
+├── Mini-Projects/ # Small applied projects (end-to-end)
+│ └── Titanic-EDA-Model/
+│ ├── README.md
+│ ├── notebook.ipynb
+│ ├── src/
+│ └── requirements.txt
+│
+├── Algorithms-from-Scratch/ # Algorithms implemented from fundamentals
+├── utils/ # helper scripts, plotting, dataset loaders
+├── data/ # small sample datasets or links (gitignored large data)
+└── README.md # this file
+
 
 ---
 
-## 🧠 Topics Covered
-- Linear & Logistic Regression  
-- Decision Trees  
-- Neural Networks  
-- Regularization & Optimization  
-- Model Evaluation  
-- and more...
+## 🚀 What’s Inside
+
+- Hands-on experiments with classic ML models  
+- Implementations of algorithms from scratch (e.g., gradient descent, linear regression)  
+- Data preprocessing, visualization, and evaluation pipelines  
+- Jupyter / Google Colab notebooks ready to run  
+- Clean explanations, comments, and clear results  
 
 ---
 
-## ⚙️ Tools & Technologies
-- Python  
-- NumPy, pandas, matplotlib, scikit-learn  
-- Jupyter Notebook  
+## 🛠️ Tech Stack
+
+- **Python 3**
+- **NumPy**, **pandas**, **matplotlib**, **scikit-learn**
+- **Jupyter Notebook / Google Colab**
+- Occasionally: **TensorFlow**, **PyTorch**
 
 ---
 
-## 🧩 Purpose
-This repo is mainly for **learning, experimentation, and demonstration** of my work in machine learning throughout my academic studies.
+## 🎯 Purpose
+
+This repository documents my learning journey and showcases practical machine learning skills — from understanding theory to implementing real code and analyzing results.  
+It’s built to reflect both **academic progress** and **industry-ready practices**.
 
 ---
 
 ## 📫 Contact
-Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or by email at `your.email@example.com`.
+
+- **Name:** [Your Name]  
+- **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **Email:** your.email@example.com  
+
+---
+
+⭐ **If you find something interesting here, feel free to star the repo!**
